@@ -33,6 +33,13 @@ class AuthorizationPage extends StatelessWidget {
                   Text('Usuario: $username'),
                   Text('Contraseña: $password'),
                   SizedBox(height: 20),
+                  // Agregar una imagen cuando el usuario está verificado.
+                  Image.asset(
+                    'assets/Verificado.webp', // Ruta relativa a tu imagen verificada.
+                    width: 100, // Ajusta el ancho de la imagen según tus necesidades.
+                    height: 100, // Ajusta la altura de la imagen según tus necesidades.
+                  ),
+                  SizedBox(height: 20),
                   ElevatedButton(
                     onPressed: () {
                       Navigator.of(context).pop(); // Regresar a la ventana de inicio de sesión.
@@ -47,4 +54,5 @@ class AuthorizationPage extends StatelessWidget {
     );
   }
 }
+
 

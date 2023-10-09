@@ -1,0 +1,5 @@
+1. Futter Framework: I became familiar with the Flutter framework and its components. I learned how to create a Flutter project, structure the app, and use various widgets to build user interfaces.
+2. State Management: I grasped the concept of state management in Flutter. I understood the difference between stateful and stateless widgets and how to use them effectively to manage user interface changes.
+3. Authentication Basics: While the provided code used simple, hard-coded credentials, I started to understand the fundamentals of user authentication. I realized that in real-world applications, implementing secure authentication is critical and involves additional considerations.
+4. User Interface Design: I practiced designing user interfaces by working with text fields, buttons, and layouts. I learned how to customize the appearance of widgets and improve the overall user experience.
+5. Navigation and Routing: I discovered how to navigate between different screens of the app. I understood the importance of routing and how to pass data between screens, allowing me to control the flow of the application.
